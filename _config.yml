@@ -1,11 +1,11 @@
 # Site settings
-title: Yizhi Investment
-description: Yizhi Investment
+title: 弈智投资
+description: Yizhi Investments
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: New Era of Intelligent Trading.
+username: New Era of Intelligent Trading
 user_description_chinese: 弈智投资成立于 2018 年，公司位于上海陆家嘴 CBD 核心地段，由拥有数十年金融市场和计算机技术经验的常春藤校友创办，专注于全球期货，股票，和期权市场的高频量化研究。
 user_description_english: Yizhi Investments was established in 2018. The company is located in the core area of ​​Lujiazui CBD in Shanghai, and was founded by Ivy League alumni with decades of experience in financial markets and computer technologies. We focus on high-frequency quantitative research on global futures, equities, and options markets.
 user_title: 弈智投资
